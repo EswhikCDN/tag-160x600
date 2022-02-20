@@ -1,0 +1,2 @@
+# tag-160x600
+Ad Footing "160x600" 

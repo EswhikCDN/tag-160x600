@@ -1,3 +1,4 @@
+document.write(`
 <div class="fixed-leftSd">
     <div aria-label="Close Ads" class="close-fixedSd" role="button" tabindex="0" onclick="this.parentElement.style.display=&quot;none&quot;">
     CLOSE ADS
@@ -100,3 +101,4 @@
     }
 }
 </style>
+`)
